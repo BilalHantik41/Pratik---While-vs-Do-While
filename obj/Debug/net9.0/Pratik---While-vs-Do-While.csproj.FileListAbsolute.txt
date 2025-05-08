@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\bin\Debug\net9.0\Pratik---While-vs-Do-While.exe
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\bin\Debug\net9.0\Pratik---While-vs-Do-While.deps.json
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\bin\Debug\net9.0\Pratik---While-vs-Do-While.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\bin\Debug\net9.0\Pratik---While-vs-Do-While.dll
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\bin\Debug\net9.0\Pratik---While-vs-Do-While.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.dll
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\refint\Pratik---While-vs-Do-While.dll
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.pdb
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\Pratik---While-vs-Do-While.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Pratik---While-vs-Do-While\obj\Debug\net9.0\ref\Pratik---While-vs-Do-While.dll
