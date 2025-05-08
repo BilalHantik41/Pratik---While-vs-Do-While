@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pratik---While-vs-Do-While")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c3e969040aa254f8cd3b6b3becd2692cfa7545")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da3c7262c22ee5bb296a5fd1206da25ccd7f082d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pratik---While-vs-Do-While")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pratik---While-vs-Do-While")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

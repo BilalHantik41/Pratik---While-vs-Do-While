@@ -8,10 +8,12 @@ namespace WhileDoWhile
         {/*
             Console.WriteLine("1. Soru: While Döngüsü");
             Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("Lütfen Bir Limit Belirleyiniz:");
+            Console.WriteLine("---------------------------------------------");
            int Sayac = 0;
-           int Limit = 100;  // Burdaki Değer Kadar dönmeden sistem kendini tamamlamıcak.
+           int Limit = int.Parse(Console.ReadLine());  // Burdaki Değer Kadar dönmeden sistem kendini tamamlamıcak.
             while (Sayac <= Limit )
-            {
+            {   Console.WriteLine("---------------------------------------------");
                 Console.WriteLine(Sayac +" kez"+" "+"Ben bir Patika'liyim");
                 Sayac++;
             }
@@ -21,10 +23,12 @@ namespace WhileDoWhile
 
             Console.WriteLine("2. Soru: Do While Döngüsü");
             Console.WriteLine("---------------------------------------------");
+            Console.WriteLine("Lütfen Bir Limit Belirleyiniz:");
+            Console.WriteLine("---------------------------------------------");
             int Sayac = 1;
-            int Limit = 100; // Burayi 0 yapsan bile Konsola 1 kez Ben bir patikaliyim yazicak ve döngüyü bitiricek
+            int Limit = int.Parse(Console.ReadLine()); // Burayi 0 yapsan bile Konsola 1 kez Ben bir patikaliyim yazicak ve döngüyü bitiricek
             do
-            {
+            {  Console.WriteLine("---------------------------------------------");
                Console.WriteLine(Sayac +" kez"+" "+"Ben bir Patika'liyim");
                 Sayac++;
             } 
